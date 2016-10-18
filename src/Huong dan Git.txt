@@ -1,0 +1,3 @@
+Download link: http://git-scm.com/download/win
+
+Tham khảo: http://vietjack.com/git/
